@@ -29,7 +29,7 @@ The TDS Data Analyst Agent is a web-based application that transforms how you in
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Project_2
+   cd data-analyst-agent
    ```
 
 2. **Install dependencies**
@@ -279,5 +279,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ using FastAPI, LangChain, and Google Generative AI**
+
 
 
